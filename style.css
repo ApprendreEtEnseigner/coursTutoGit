@@ -1,0 +1,20 @@
+h1{
+    padding-top: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: large;
+}
+
+/*! ONE FEATURE == ONE BRANCH */
+
+/** git merg gree-background ajoute ds master tout ce qui ne se trouve pas dans master  */
+/** si la branch perso contient des commits impossible de la supprimer, par defaut  */
+/*! la bonne pratique, w ds nvlle brnch, PAS ds master - main  */
+/*! Pour merger, tjrs revenir sur bran master. Et le merge fait aussi le commit de la brnch perso  */
+
+body {
+    background: #F8F9FA;
+    color: blue;
+}
+
+/*! end video @ 33:29:00 of 1:27:00  */
